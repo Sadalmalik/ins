@@ -1,0 +1,20 @@
+{
+  "name": "com.playgendary.module.odin",
+  "version": "1.0.1",
+  "displayName": "Odin",
+  "description": "Odin module",
+  "unity": "2019.3",
+  "author": {
+    "name": "Playgendary Development"
+  },
+  "type": "library",
+  "dependencies": {
+    "com.playgendary.module.general": "1.0.0"
+  },
+  "hideInEditor": false,
+  "internal":[
+    {
+      "odin_package": "2.1.10"
+    }
+  ]
+}
